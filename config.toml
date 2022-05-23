@@ -61,7 +61,7 @@ link = "plugins/search/mark.js"
 link = "plugins/search/search.js"
 [params.preloader]
 enable = true
-preloader = "https://media.giphy.com/media/swhRkVYLJDrCE/giphy.gif"
+preloader = "https://github.com/gethugothemes/infinity-hugo/blob/master/layouts/partials/preloader.html"
 [params.search]
 enable = true
 [[params.social]]
