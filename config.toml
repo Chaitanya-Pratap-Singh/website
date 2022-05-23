@@ -1,45 +1,84 @@
 baseURL = "/"
-disqusShortname = ""
 languageCode = "en-us"
+title = "Hugo Northendlab Forestry starter"
+theme = "github.com/themefisher/northendlab-hugo"
 paginate = "5"
 summaryLength = "10"
-theme = "https://github.com/gethugothemes/northendlab-light"
-title = "Chaitanya Pratap Singh"
-[[menu.footer]]
-URL = "contact"
-name = "Contact"
-weight = 1
-[[menu.footer]]
-URL = "tools"
-name = "Tools"
-weight = 2
+disqusShortname = "" # get your shortname form here : https://disqus.com
+
+[params]
+home = "Home"
+logo = "images/logo.svg"
+author = "Themefisher"
+description = "This is meta description"
+google_tag_manager = "" # your id
+google_analitycs_id = "" # your id
+contact_form_action = "#" # contact form works with : https://formspree.io
+copyright = "&copy; 2020 [Gethugothemes](https://gethugothemes.com) All Rights Reserved"
+
+[params.preloader]
+enable = true
+preloader = "" # use png, jpg, svg or gif format
+
+[params.search]
+enable = true
+
+[params.banner]
+bgImage = "images/banner/banner-bg.svg"
+title = "Hi, I'm John Smith Doe. <br> I help people make the  worlds best software"
+image = "images/banner/illustration.svg"
+
+[params.cta]
+enable = true
+image = "images/hugo-muscot.svg"
+title = "Get the best hugo templates"
+description = "Fusce condimentum nunc ac nisi vulputate fringilla. Donec lacinia congue felis in faucibus."
+[params.cta.button]
+enable = true
+label = "Visit Here"
+link = "https://gethugothemes.com/shop/"
+
+[[params.social]]
+icon = "ti-facebook" # themify icon pack https://themify.me/themify-icons
+link = "#"
+[[params.social]]
+icon = "ti-twitter-alt" # themify icon pack https://themify.me/themify-icons
+link = "#"
+[[params.social]]
+icon = "ti-github" # themify icon pack https://themify.me/themify-icons
+link = "#"
+[[params.social]]
+icon = "ti-linkedin" # themify icon pack https://themify.me/themify-icons
+link = "#"
+
 [[menu.main]]
 URL = "contact"
 name = "Contact"
 weight = 1
+
 [[menu.main]]
 URL = "tools"
-name = "Tools"
+name = "tools"
 weight = 2
+
+[[menu.footer]]
+URL = "contact"
+name = "Contact"
+weight = 1
+
+[[menu.footer]]
+URL = "tools"
+name = "tools"
+weight = 2
+
 [outputs]
 home = ["HTML", "AMP", "RSS", "JSON"]
-[params]
-author = "Themefisher"
-contact_form_action = "https://forms.un-static.com/forms/621734bbd835ff0953a56c9067abe3c866378f09"
-copyright = "&copy; 2022 Chaitanya Pratap Singh All Rights Reserved"
-description = "This is meta description"
-google_analitycs_id = "G-8CPCMYK8KB"
-google_tag_manager = ""
-home = "Home"
-logo = "/images/favicon.ico"
-[params.banner]
-bgImage = ""
-image = "/images/banner/undraw_Programming_re_kg9v.svg"
-title = "Hello, I'm Chaitanya Pratap Singh, A student that loves programming."
+
 [[params.plugins.css]]
 link = "plugins/bootstrap/bootstrap.min.css"
 [[params.plugins.css]]
 link = "plugins/themify-icons/themify-icons.css"
+
 [[params.plugins.js]]
 link = "plugins/jQuery/jquery.min.js"
 [[params.plugins.js]]
@@ -50,23 +89,3 @@ link = "plugins/search/fuse.min.js"
 link = "plugins/search/mark.js"
 [[params.plugins.js]]
 link = "plugins/search/search.js"
-[params.preloader]
-enable = true
-preloader = "https://external-preview.redd.it/Hg_GisQxQmw22jqJq7CVxe-_tW18KaIhKnMVqy2qBpc.gif?format=mp4&s=24860d2595b50e73e7edebac0a34413a291c800b"
-[params.search]
-enable = true
-[[params.social]]
-icon = "ti-youtube"
-link = "https://www.youtube.com/channel/UC_WZTg6vY2YAMnvBPHu2DEQ"
-[[params.social]]
-icon = "ti-instagram"
-link = "https://www.instagram.com/chaitanya_2406/"
-[[params.social]]
-icon = "ti-twitter-alt"
-link = "https://twitter.com/Chaitanya_2406"
-[[params.social]]
-icon = "ti-github"
-link = "https://github.com/Chaitanya-Pratap-Singh"
-[[params.social]]
-icon = "ti-linkedin"
-link = "https://www.linkedin.com/in/chaitanyapratapsingh/"
