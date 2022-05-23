@@ -24,8 +24,12 @@ tools:
   - name: Google Analytics
     image: "/images/tools/Google-Analytics.jpg"
     link: https://analytics.google.com/analytics/web
-- title: Digital Marketing Tools
+- title: Management Tools
+  tool:
+  - name: Notion
+    image: "/images/untitled.png"
+    link: https://notion.so/
 tool:
-  - name: Bitly Link
-    image: "/images/tools/Bitly.jpg"
-    link: https://bitly.com/
+- name: Bitly Link
+  image: "/images/tools/Bitly.jpg"
+  link: https://bitly.com/
