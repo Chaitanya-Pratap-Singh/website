@@ -61,7 +61,7 @@ link = "plugins/search/mark.js"
 link = "plugins/search/search.js"
 [params.preloader]
 enable = true
-preloader = "https://github.com/gethugothemes/northendlab-light/blob/master/layouts/partials/preloader.html"
+preloader = "https://media.giphy.com/media/swhRkVYLJDrCE/giphy.gif"
 [params.search]
 enable = true
 [[params.social]]
