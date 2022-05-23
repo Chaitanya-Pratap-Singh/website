@@ -65,8 +65,8 @@ preloader = ""
 [params.search]
 enable = true
 [[params.social]]
-icon = "ti-facebook"
-link = "#"
+icon = "ti-youtube"
+link = "https://bit.ly/ytcps"
 [[params.social]]
 icon = "ti-twitter-alt"
 link = "#"
