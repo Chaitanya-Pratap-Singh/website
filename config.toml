@@ -26,12 +26,12 @@ home = ["HTML", "AMP", "RSS", "JSON"]
 [params]
 author = "Themefisher"
 contact_form_action = "#"
-copyright = "&copy; 2020 [Gethugothemes](https://gethugothemes.com) All Rights Reserved"
+copyright = "&copy; 2022Chaitanya Pratap SinghAll Rights Reserved"
 description = "This is meta description"
 google_analitycs_id = ""
 google_tag_manager = ""
 home = "Home"
-logo = "images/logo.svg"
+logo = "/images/favicon.ico"
 [params.banner]
 bgImage = "images/banner/banner-bg.svg"
 image = "images/banner/illustration.svg"
