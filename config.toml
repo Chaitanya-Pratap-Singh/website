@@ -68,11 +68,14 @@ enable = true
 icon = "ti-youtube"
 link = "https://bit.ly/ytcps"
 [[params.social]]
+icon = "ti-instagram"
+link = "https://www.instagram.com/chaitanya_2406"
+[[params.social]]
 icon = "ti-twitter-alt"
 link = "https://twitter.com/Chaitanya_2406"
 [[params.social]]
 icon = "ti-github"
-link = "#"
+link = "https://github.com/Chaitanya-Pratap-Singh"
 [[params.social]]
 icon = "ti-linkedin"
-link = "#"
+link = "https://www.linkedin.com/in/chaitanyapratapsingh/"
