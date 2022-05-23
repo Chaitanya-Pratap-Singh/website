@@ -60,7 +60,7 @@ link = "plugins/search/mark.js"
 [[params.plugins.js]]
 link = "plugins/search/search.js"
 [params.preloader]
-enable = true
+enable = false
 preloader = "https://github.com/gethugothemes/infinity-hugo/blob/master/layouts/partials/preloader.html"
 [params.search]
 enable = true
