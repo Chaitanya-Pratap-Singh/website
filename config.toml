@@ -38,7 +38,7 @@ image = "/images/banner/undraw_programming_re_kg9v.svg"
 title = "Hello, my name is Chaitanya Pratap Singh, & I 'm a student that loves programming."
 [params.cta]
 description = "Fusce condimentum nunc ac nisi vulputate fringilla. Donec lacinia congue felis in faucibus."
-enable = true
+enable = false
 image = "images/hugo-muscot.svg"
 title = "Get the best hugo templates"
 [params.cta.button]
