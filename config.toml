@@ -4,7 +4,7 @@ languageCode = "en-us"
 paginate = "5"
 summaryLength = "10"
 theme = "github.com/themefisher/northendlab-hugo"
-title = "Hugo Northendlab Forestry starter"
+title = "Chaitanya Pratap Singh"
 [[menu.footer]]
 URL = "contact"
 name = "Contact"
@@ -25,10 +25,10 @@ weight = 2
 home = ["HTML", "AMP", "RSS", "JSON"]
 [params]
 author = "Themefisher"
-contact_form_action = "#"
+contact_form_action = "https://forms.un-static.com/forms/621734bbd835ff0953a56c9067abe3c866378f09"
 copyright = "&copy; 2022Chaitanya Pratap SinghAll Rights Reserved"
 description = "This is meta description"
-google_analitycs_id = ""
+google_analitycs_id = "G-8CPCMYK8KB"
 google_tag_manager = ""
 home = "Home"
 logo = "/images/favicon.ico"
