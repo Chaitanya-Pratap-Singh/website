@@ -2,6 +2,9 @@
 tools:
 - title: Dev Tools
   tool:
+  - name: Netlify
+    image: "/images/netlify_logo.jpg"
+    link: netlify.com
   - name: Git
     image: "/images/tools/Git.png"
     link: https://git-scm.com/
