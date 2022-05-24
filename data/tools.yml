@@ -32,6 +32,9 @@ tools:
   - name: Notion
     image: "/images/untitled.png"
     link: https://notion.so/
+  - name: Google Calendar
+    image: "/images/googletips_calendar2.jpg"
+    link: https://calendar.google.com/calendar/u/0/r/customday
 tool:
 - name: Bitly Link
   image: "/images/tools/Bitly.jpg"
