@@ -14,8 +14,8 @@ URL = "tools"
 name = "Tools"
 weight = 2
 [[menu.main]]
-URL = ""
-name = ""
+URL = "now"
+name = "Now"
 weight = ""
 [[menu.main]]
 URL = "contact"
