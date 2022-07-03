@@ -35,7 +35,7 @@ logo = "/images/favicon.ico"
 [params.banner]
 bgImage = ""
 image = "/images/banner/undraw_programming_re_kg9v.svg"
-title = "Hii, 👋🏻I'm Chaitanya Pratap Singh, a student that loves programming."
+title = "Hii 👋🏻I'm Chaitanya, a student that loves programming."
 [params.cta]
 description = "Fusce condimentum nunc ac nisi vulputate fringilla. Donec lacinia congue felis in faucibus."
 enable = false
