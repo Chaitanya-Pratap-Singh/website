@@ -6,10 +6,18 @@ summaryLength = "10"
 theme = "github.com/themefisher/northendlab-hugo"
 title = "Chaitanya Pratap Singh"
 [[menu.footer]]
-URL = "tools"
-name = "Tools"
-weight = 2
+URL = "contact"
+name = "Contact"
+weight = 1
 [[menu.footer]]
+URL = "tools"
+name = "Tools"
+weight = 2
+[[menu.main]]
+URL = ""
+name = ""
+weight = ""
+[[menu.main]]
 URL = "contact"
 name = "Contact"
 weight = 1
@@ -17,10 +25,6 @@ weight = 1
 URL = "tools"
 name = "Tools"
 weight = 2
-[[menu.main]]
-URL = "contact"
-name = "Contact"
-weight = 1
 [outputs]
 home = ["HTML", "AMP", "RSS", "JSON"]
 [params]
