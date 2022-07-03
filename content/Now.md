@@ -15,4 +15,4 @@ I'm in Prayagraj India trying to lead an exciting, habit-oriented, healthy and p
 * Programming being my passion I am also learning front-end web dev using Tailwind CSS, Bootstrap and React JS from different online resources.
 * I am also fond of reading and I am currently reading The Richest Man In Babylon by George S Clason
 
-This page is a public declaration and a reminder to myself, and it balances out the goal-driven nature of my [Impossible List](https://collegeinfogeek.com/about/meet-the-author/my-impossible-list/). It was inspired by [Derek Sivers](https://sivers.org/now).
+This page is a public declaration and a reminder to myself, and it balances out the goal-driven nature of my life. It was inspired by [Derek Sivers](https://sivers.org/now).
