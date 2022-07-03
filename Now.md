@@ -2,6 +2,9 @@
 [menu.footer]
 name = "Now"
 weight = 3
+[menu.main]
+name = "Now"
+weight = 3
 
 +++
 I am currently working on my YouTube channel learning video editing using Open-Shot video editor and learning more about Canva to make my graphics better.
