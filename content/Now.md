@@ -5,7 +5,7 @@ date = 2022-07-02T18:30:00Z
 description = ""
 image = ""
 title = "What  Am I Doing Currently "
-type = "post"
+type = ""
 
 +++
  I am currently working on my YouTube channel learning video editing using Open-Shot video editor and learning more about Canva to make my graphics better.
