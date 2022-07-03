@@ -16,7 +16,7 @@ weight = 2
 [[menu.main]]
 URL = "now"
 name = "Now"
-weight = ""
+weight = "1"
 [[menu.main]]
 URL = "contact"
 name = "Contact"
