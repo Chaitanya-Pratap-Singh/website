@@ -4,12 +4,15 @@ categories = []
 date = 2022-07-02T18:30:00Z
 description = ""
 image = ""
-title = "What  Am I Doing Currently "
+title = "What I'm  Doing Now"
 type = ""
 
 +++
- I am currently working on my YouTube channel learning video editing using Open-Shot video editor and learning more about Canva to make my graphics better.
+I'm in Prayagraj India trying to lead an exciting, habit-oriented, healthy and productive life. This is what I spend my time on:
 
-I am also learning front-end web dev using Tailwind CSS, Bootstrap and React JS.
+* Learning more about filmmaking and editing to enhance my [Youtube Channel](https://www.youtube.com/channel/UC_WZTg6vY2YAMnvBPHu2DEQ).
+* Moreover, I am also learning about [Canva](canva.com) to make better graphics.
+* Programming being my passion I am also learning front-end web dev using Tailwind CSS, Bootstrap and React JS from different online resources.
+* I am also fond of reading and I am currently reading The Richest Man In Babylon by George S Clason
 
-I am also fond of reading and I am currently reading The Richest Man In Babylon by George S Clason
+This page is a public declaration and a reminder to myself, and it balances out the goal-driven nature of my [Impossible List](https://collegeinfogeek.com/about/meet-the-author/my-impossible-list/). It was inspired by [Derek Sivers](https://sivers.org/now).
