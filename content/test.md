@@ -10,7 +10,7 @@ type = "post"
 +++
 <!-- @format -->
 
-Hey, I am Chaitanya Pratap Singh, A student 👨🏻‍🎓 from India who loves Programming💻💻. If I am not programming or learning to do so, you'll find me reading some good books or chilling with my friends.
+Hey 👋🏻, I am Chaitanya Pratap Singh, A student 👨🏻‍🎓 from India who loves Programming💻💻. If I am not programming or learning to do so, you'll find me reading some good books or chilling with my friends.
 
 ![](/images/fotis-fotopoulos-6sal6aq4owi-unsplash.jpg)
 
