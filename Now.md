@@ -1,4 +1,8 @@
 +++
+categories = []
+description = ""
+image = ""
+title = "What I am doing Currently "
 [menu.footer]
 name = "Now"
 weight = 3
