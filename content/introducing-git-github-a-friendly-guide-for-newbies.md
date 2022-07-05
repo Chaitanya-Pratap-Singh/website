@@ -3,7 +3,7 @@ author = "Chaitanya Pratap Singh"
 categories = []
 date = 2022-07-05T14:30:00Z
 description = "If you’re like me, you probably heard of Git and GitHub long before you had any idea what they were actually for."
-image = ""
+image = "/images/yancy-min-842ofhc6mai-unsplash.jpg"
 title = "Introducing Git & GitHub: A Friendly Guide For Newbies"
 type = "post"
 
