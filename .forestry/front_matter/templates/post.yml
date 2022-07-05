@@ -28,4 +28,5 @@ fields:
   default: post
 pages:
 - content/Now.md
+- content/introducing-git-github-a-friendly-guide-for-newbies.md
 - content/what-is-this-blog-all-about.md
