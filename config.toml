@@ -37,7 +37,7 @@ contact_form_action = "https://forms.un-static.com/forms/621734bbd835ff0953a56c9
 copyright = "&copy; 2022Chaitanya Pratap SinghAll Rights Reserved"
 description = "This is meta description"
 google_analitycs_id = "G-8CPCMYK8KB"
-google_tag_manager = ""
+google_tag_manager = "G-8CPCMYK8KB"
 home = "Home"
 logo = "/images/favicon.ico"
 [params.banner]
